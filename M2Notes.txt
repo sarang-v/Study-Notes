@@ -1,2 +1,3 @@
 Cauchy Riemann
-Ux=Vy
+Ux=Vy and Uy=-Vx
+Where these are partial derivatives along the X and Y axis
